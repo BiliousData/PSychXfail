@@ -30,6 +30,10 @@ You must change the lengths in [/src/audio_def.h](audio_def.h) if you modify the
 
 In [iso/chart/](/iso/chart/), you can find .json files. These .json files will be converted to .cht files that are significantly smaller and can be played by the game.
 
+## STR files
+
+In [iso/movies](/iso/movies), you can find .str files. I am NOT ready to attempt to explain these, but know that they are basically video files for the Playstation.
+
 ## What files go into the final binary
 
 You can control which files go into the final binary in [funkin.xml](/funkin.xml). The format is pretty obvious, so I won't go into much more detail here.
