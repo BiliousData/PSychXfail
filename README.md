@@ -1,3 +1,9 @@
+#This repo is abandoned because apparently shoving the og stuff into the mind games repo was harder than I thought it would be, go [here](https://github.com/BiliousData/PSychX) for something that actually works.
+
+Unlike this, which was supposed to be the Mind Games port, but with the og content, that repo will be the og PSXFunkin but with PSycheX stuff being added to it over time.
+
+This repo is just for history.
+
 # PSychX
 Psych Engine on the PSX LOL
 
